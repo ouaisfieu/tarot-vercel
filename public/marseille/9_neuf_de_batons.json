@@ -1,0 +1,16 @@
+{
+  "id": "min_batons_09",
+  "type": "Mineur",
+  "nom": "Neuf de Bâtons",
+  "numero": "9",
+  "element": "Feu",
+  "mot_cle_principal": "Résilience",
+  "mots_cles_associes": "Vigilance, Endurance, Méfiance, Préparation, Défi",
+  "symbolique_visuelle": "Personnage blessé appuyé sur un bâton, les autres dressés derrière lui.",
+  "interpretation_positive": "Force intérieure, préparation, persistance face à l’adversité.",
+  "interpretation_negative": "Fatigue morale, paranoïa, repli défensif excessif.",
+  "interactions_notables": "Le Pendu, La Lune, La Force",
+  "categorie_symbolique": "Chosification",
+  "numero_numerologie": 9.0,
+  "notes_personnelles": NaN
+}
