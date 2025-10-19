@@ -1,0 +1,314 @@
+[
+  {
+    "nom": "La Papesse",
+    "file": "ii_la_papesse.json"
+  },
+  {
+    "nom": "L’Impératrice",
+    "file": "iii_limperatrice.json"
+  },
+  {
+    "nom": "L’Empereur",
+    "file": "iv_lempereur.json"
+  },
+  {
+    "nom": "Le Pape",
+    "file": "v_le_pape.json"
+  },
+  {
+    "nom": "L’Amoureux",
+    "file": "vi_lamoureux.json"
+  },
+  {
+    "nom": "Le Chariot",
+    "file": "vii_le_chariot.json"
+  },
+  {
+    "nom": "Le Bateleur",
+    "file": "i_le_bateleur.json"
+  },
+  {
+    "nom": "La Justice",
+    "file": "viii_la_justice.json"
+  },
+  {
+    "nom": "L’Hermite",
+    "file": "ix_lhermite.json"
+  },
+  {
+    "nom": "La Roue de Fortune",
+    "file": "x_la_roue_de_fortune.json"
+  },
+  {
+    "nom": "La Force",
+    "file": "xi_la_force.json"
+  },
+  {
+    "nom": "Le Pendu",
+    "file": "xii_le_pendu.json"
+  },
+  {
+    "nom": "L’Arcane sans Nom",
+    "file": "xiii_larcane_sans_nom.json"
+  },
+  {
+    "nom": "Tempérance",
+    "file": "xiv_temperance.json"
+  },
+  {
+    "nom": "Le Diable",
+    "file": "xv_le_diable.json"
+  },
+  {
+    "nom": "La Maison Dieu",
+    "file": "xvi_la_maison_dieu.json"
+  },
+  {
+    "nom": "L’Étoile",
+    "file": "xvii_letoile.json"
+  },
+  {
+    "nom": "La Lune",
+    "file": "xviii_la_lune.json"
+  },
+  {
+    "nom": "Le Soleil",
+    "file": "xix_le_soleil.json"
+  },
+  {
+    "nom": "Le Jugement",
+    "file": "xx_le_jugement.json"
+  },
+  {
+    "nom": "Le Monde",
+    "file": "xxi_le_monde.json"
+  },
+  {
+    "nom": "Le Mat",
+    "file": "0_le_mat.json"
+  },
+  {
+    "nom": "As de Bâtons",
+    "file": "1_as_de_batons.json"
+  },
+  {
+    "nom": "Deux de Bâtons",
+    "file": "2_deux_de_batons.json"
+  },
+  {
+    "nom": "Trois de Bâtons",
+    "file": "3_trois_de_batons.json"
+  },
+  {
+    "nom": "Quatre de Bâtons",
+    "file": "4_quatre_de_batons.json"
+  },
+  {
+    "nom": "Cinq de Bâtons",
+    "file": "5_cinq_de_batons.json"
+  },
+  {
+    "nom": "Six de Bâtons",
+    "file": "6_six_de_batons.json"
+  },
+  {
+    "nom": "Sept de Bâtons",
+    "file": "7_sept_de_batons.json"
+  },
+  {
+    "nom": "Huit de Bâtons",
+    "file": "8_huit_de_batons.json"
+  },
+  {
+    "nom": "Neuf de Bâtons",
+    "file": "9_neuf_de_batons.json"
+  },
+  {
+    "nom": "Dix de Bâtons",
+    "file": "10_dix_de_batons.json"
+  },
+  {
+    "nom": "Valet de Bâtons",
+    "file": "11_valet_de_batons.json"
+  },
+  {
+    "nom": "Cavalier de Bâtons",
+    "file": "12_cavalier_de_batons.json"
+  },
+  {
+    "nom": "Reine de Bâtons",
+    "file": "13_reine_de_batons.json"
+  },
+  {
+    "nom": "Roi de Bâtons",
+    "file": "14_roi_de_batons.json"
+  },
+  {
+    "nom": "As de Coupes",
+    "file": "1_as_de_coupes.json"
+  },
+  {
+    "nom": "Deux de Coupes",
+    "file": "2_deux_de_coupes.json"
+  },
+  {
+    "nom": "Trois de Coupes",
+    "file": "3_trois_de_coupes.json"
+  },
+  {
+    "nom": "Quatre de Coupes",
+    "file": "4_quatre_de_coupes.json"
+  },
+  {
+    "nom": "Cinq de Coupes",
+    "file": "5_cinq_de_coupes.json"
+  },
+  {
+    "nom": "Six de Coupes",
+    "file": "6_six_de_coupes.json"
+  },
+  {
+    "nom": "Sept de Coupes",
+    "file": "7_sept_de_coupes.json"
+  },
+  {
+    "nom": "Huit de Coupes",
+    "file": "8_huit_de_coupes.json"
+  },
+  {
+    "nom": "Neuf de Coupes",
+    "file": "9_neuf_de_coupes.json"
+  },
+  {
+    "nom": "Dix de Coupes",
+    "file": "10_dix_de_coupes.json"
+  },
+  {
+    "nom": "Valet de Coupes",
+    "file": "11_valet_de_coupes.json"
+  },
+  {
+    "nom": "Cavalier de Coupes",
+    "file": "12_cavalier_de_coupes.json"
+  },
+  {
+    "nom": "Reine de Coupes",
+    "file": "13_reine_de_coupes.json"
+  },
+  {
+    "nom": "Roi de Coupes",
+    "file": "14_roi_de_coupes.json"
+  },
+  {
+    "nom": "As d’Épées",
+    "file": "1_as_depees.json"
+  },
+  {
+    "nom": "Deux d’Épées",
+    "file": "2_deux_depees.json"
+  },
+  {
+    "nom": "Trois d’Épées",
+    "file": "3_trois_depees.json"
+  },
+  {
+    "nom": "Quatre d’Épées",
+    "file": "4_quatre_depees.json"
+  },
+  {
+    "nom": "Cinq d’Épées",
+    "file": "5_cinq_depees.json"
+  },
+  {
+    "nom": "Six d’Épées",
+    "file": "6_six_depees.json"
+  },
+  {
+    "nom": "Sept d’Épées",
+    "file": "7_sept_depees.json"
+  },
+  {
+    "nom": "Huit d’Épées",
+    "file": "8_huit_depees.json"
+  },
+  {
+    "nom": "Neuf d’Épées",
+    "file": "9_neuf_depees.json"
+  },
+  {
+    "nom": "Dix d’Épées",
+    "file": "10_dix_depees.json"
+  },
+  {
+    "nom": "Valet d’Épées",
+    "file": "11_valet_depees.json"
+  },
+  {
+    "nom": "Cavalier d’Épées",
+    "file": "12_cavalier_depees.json"
+  },
+  {
+    "nom": "Reine d’Épées",
+    "file": "13_reine_depees.json"
+  },
+  {
+    "nom": "Roi d’Épées",
+    "file": "14_roi_depees.json"
+  },
+  {
+    "nom": "As de Deniers",
+    "file": "1_as_de_deniers.json"
+  },
+  {
+    "nom": "Deux de Deniers",
+    "file": "2_deux_de_deniers.json"
+  },
+  {
+    "nom": "Trois de Deniers",
+    "file": "3_trois_de_deniers.json"
+  },
+  {
+    "nom": "Quatre de Deniers",
+    "file": "4_quatre_de_deniers.json"
+  },
+  {
+    "nom": "Cinq de Deniers",
+    "file": "5_cinq_de_deniers.json"
+  },
+  {
+    "nom": "Six de Deniers",
+    "file": "6_six_de_deniers.json"
+  },
+  {
+    "nom": "Sept de Deniers",
+    "file": "7_sept_de_deniers.json"
+  },
+  {
+    "nom": "Huit de Deniers",
+    "file": "8_huit_de_deniers.json"
+  },
+  {
+    "nom": "Neuf de Deniers",
+    "file": "9_neuf_de_deniers.json"
+  },
+  {
+    "nom": "Dix de Deniers",
+    "file": "10_dix_de_deniers.json"
+  },
+  {
+    "nom": "Valet de Deniers",
+    "file": "11_valet_de_deniers.json"
+  },
+  {
+    "nom": "Cavalier de Deniers",
+    "file": "12_cavalier_de_deniers.json"
+  },
+  {
+    "nom": "Reine de Deniers",
+    "file": "13_reine_de_deniers.json"
+  },
+  {
+    "nom": "Roi de Deniers",
+    "file": "14_roi_de_deniers.json"
+  }
+]
